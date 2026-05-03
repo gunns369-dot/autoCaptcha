@@ -1,0 +1,9 @@
+customtkinter>=5.2.2
+flask
+flask-cors
+pyautogui
+opencv-python
+numpy
+pillow
+pytesseract
+pywin32; platform_system == "Windows"
