@@ -15,7 +15,7 @@ CONFIG_PATH = APP_DIR / "config.json"
 
 PRODUCT_SLUG = "margoclicker"
 SCRIPT_VERSION = "0.1.0"
-DEFAULT_API_BASE_URL = "http://localhost:3000"
+DEFAULT_API_BASE_URL = "https://www.margoneuro.pl"
 
 
 def _read_json(path: Path) -> Dict[str, Any]:
